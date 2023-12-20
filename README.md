@@ -5,7 +5,7 @@ __Author:__ Vethavikashini Chithrra Raghuram
 ## Local Project Execution
 
 ### Setup
-update!
+update!,,
 - The first step for local project execution is to create a [virtual environment](https://docs.python.org/3/library/venv.html).
 This is a best practice for developing, testing and running multiple Python applications
 on a single system. There are many [explanatiosn online](https://realpython.com/python-virtual-environments-a-primer/)
